@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1501-reject-billing-deductions-that-reuse-a",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1501-reject-billing-deductions-that-reuse-a": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1501-reject-billing-deductions-that-reuse-a",
+    "origin"
+  ]
+}
